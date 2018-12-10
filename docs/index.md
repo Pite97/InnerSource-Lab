@@ -4,7 +4,7 @@ questo è il *MIO* sito di test
 
 un elenco:
 - primo
-- - sotto punto
+- - sotto primo
 - non primo
 - non primo 2
 
